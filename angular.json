@@ -158,6 +158,9 @@
               "browserTarget": "ng_shop:build:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
